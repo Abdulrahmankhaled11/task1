@@ -2,18 +2,19 @@
 x = true
 #● Create an integer variable named y
 y = 3
-#● Create a float variable named z
+#● Create a float variable named z
+
 z = 3.25
 #● Create a string variable names s
 s = 'Abdulrahman'
 #● Convert the int variable to float
-y = 2.5
+z = float(y)
 #● Create a list of numbers from 1 to 5
 L = [1,2,3,4,5]
 #● Create a tuple from 10 to 15
 T = (10,11,12,13,14,15)
 #● Convert the list to tuple
-L = (1,2,3,4,5)
+t = tuple(l)
 #● Create a dict of 3 values
 D = {1:'ahmed',2:'abdulrahman',3:'mahmoud'}
 #● Create a variable x with value of 10
@@ -26,7 +27,8 @@ x/=5
 x*=10
 #● Get module of x on 3 using assignment operators
 x%=3
-#● Using python print the module of 11 to 4
+#● Using python print the module of 11 to 4
+
 h = 11%4
 print(h)
 #● Print the exponent of 2,3
