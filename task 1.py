@@ -1,5 +1,5 @@
 #● Create a Boolean variable named x
-x = true
+x = True
 #● Create an integer variable named y
 y = 3
 #● Create a float variable named z
@@ -14,7 +14,7 @@ L = [1,2,3,4,5]
 #● Create a tuple from 10 to 15
 T = (10,11,12,13,14,15)
 #● Convert the list to tuple
-t = tuple(l)
+T = tuple(L)
 #● Create a dict of 3 values
 D = {1:'ahmed',2:'abdulrahman',3:'mahmoud'}
 #● Create a variable x with value of 10
