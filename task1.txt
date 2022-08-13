@@ -1,0 +1,50 @@
+● Can we convert the str to int ?
+:yes 
+ex:
+x = 10
+y = 12
+z = x+y
+print(str(z))
+
+● Can we use semi colon ; with python
+:yes ,when we want to execute more than order in one line we separate between them with semi colon(;)
+
+
+● Python is interpreted or compiled ?
+:interpreted language 
+
+● What is the differences between low level & high level
+:the high level is a easy used language and its using is common today ,the program need to compile to be understandable for the prossecsor  
+,but the low level is a hard used languages and is not common to use it today ,the code is wrote directly to the prossesor not need to compiled 
+
+
+● What is the differences between = , ==
+: (=)is a assignment operator and mean that the tow variables are equal 
+  (==)is an arithmetic operator and mean the are the vriables equal?
+
+● What do we mean by using !=
+:thats mean that the two variables are not equal 
+
+● What is the operator precedence
+:It is a property of the order of priority of the order of execution of operators
+
+● What is the differences between if , elif
+:(if)we use it steadily when we have a condition to execute a code 
+ (elif)we use it when we have alot of conditions only 
+
+● What is the differences between elif, else
+:(elif)we use it when we have alot of conditions 
+ (else)we use it when any condition are true 
+
+● Can we use more than one elif
+:yes 
+
+● Can we use more than one else 
+:no
+
+● in elif , python will check all the conditions no matter what ?
+:yes
+
+● in elif we use else for ... ?
+:no
+
